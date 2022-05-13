@@ -1,0 +1,9 @@
+{
+  "name": "js-a3mv61",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "2.434.0",
+    "otplib": "^11.0.0"
+  }
+}
