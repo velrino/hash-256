@@ -44,9 +44,12 @@ function getPoint(hash) {
   return point;
 }
 
-const test = gameResult(``);
+const test = gameResult(
+  `e67e72111b363d80c8124d28193926000980e1211c7986cacbd26aacc5528d48`
+);
 const test2 = gameResult(test.seed);
 const test3 = gameResult(test2.seed);
+
 console.log(test);
 console.log(test2);
 console.log(test3);
